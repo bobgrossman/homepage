@@ -1,9 +1,9 @@
 title: Robert L. Grossman 
 author:
   name: Robert L. Grossman
-  email: robert.grossman@uchicago.edu
+  email: robert dot grossman grossman@uchicago.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  I'm a data scientist who has been working with predictive analytics, AI 
+  I am a data scientist who has been working with predictive analytics, AI
   and big data for over 20 years.
 
 show_excerpts: false # set to true to show excerpts on the homepage
