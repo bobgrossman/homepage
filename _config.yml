@@ -14,13 +14,14 @@ minima:
   date_format: "%b %-d, %Y"
 
 
-website: https://bobgrossman.github.io
-basewebsite: /homepage
+# rlg need to clean this up
+# site.baseurl: /homepage
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url:
+# website: https://bobgrossman.github.io
 
 
-
-
-  # generate social links in footer
+# generate social links in footer
   social_links:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/robertgrossman/" }
     - { platform: twitter,        user_url: "https://twitter.com/BobGrossman" }
