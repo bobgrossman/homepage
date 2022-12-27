@@ -1,9 +1,9 @@
-title: Your awesome title
+title: Robert L. Grossman 
 author:
   name: Robert L. Grossman
-  email: robert dot grossman@uchicago.edu
+  email: robert.grossman@uchicago.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-I'm a data scientist who has been working with predictive analytics, AI and big data for over 20 years.
+ I'm a data scientist who has been working with predictive analytics, AI and big data for over 20 years.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,8 +14,6 @@ minima:
 
   # generate social links in footer
   social_links:
-#    - { platform: google_scholar, user_url: 
-# "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/robertgrossman/" }
     - { platform: twitter,        user_url: "https://twitter.com/BobGrossman" }
 
