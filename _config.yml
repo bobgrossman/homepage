@@ -5,6 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   I am a data scientist who has been working with predictive analytics, AI
   and big data for over 20 years.
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
